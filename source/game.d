@@ -9,10 +9,10 @@ class Game
     // I understand that the naming conventions of these variables is meant to describe
     // the type of data that is stored in that memory location.
     // I don't care, in this codebase, they are DWORDS. So they are labeled as such.
-	DWORD mClient;
+    DWORD mClient;
     DWORD mEngine;
     DWORD dwLocalPlayer;
-	DWORD dwForceAttack;
+    DWORD dwForceAttack;
     DWORD dwForceJump;
     DWORD dwCrosshair;
     DWORD dwTeamNum;
