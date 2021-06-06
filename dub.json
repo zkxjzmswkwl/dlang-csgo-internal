@@ -1,0 +1,20 @@
+{
+	"authors": [
+		"Carter"
+	],
+	"copyright": "Copyright © 2021, Carter",
+	"dependencies": {},
+	"description": "POC.",
+	"dflags": [
+		"-singleobj",
+		"-shared",
+		"-ffast-math",
+		"-singleobj"
+	],
+	"libs": [
+		"user32"
+	],
+	"license": "Apache 2.0",
+	"name": "internalCSGOPOC",
+	"targetType": "dynamicLibrary"
+}
